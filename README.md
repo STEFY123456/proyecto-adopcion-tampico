@@ -46,3 +46,4 @@ El formulario es una muestra visual para la entrega académica y no envía datos
 El enlace de correo abre la aplicación de email. Los datos de contacto e impacto
 deben verificarse antes de publicar.
 # Proyecto-adopcion
+# Proyecto-adopcion
